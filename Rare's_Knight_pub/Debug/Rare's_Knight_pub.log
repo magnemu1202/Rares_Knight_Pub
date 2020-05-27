@@ -1,0 +1,267 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Rare's_night_pub.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  BlankScene.cpp
+  DirectXModule.cpp
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\DirectXModule.cpp(53,29): warning C4018: '<=': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\DirectXModule.cpp(59,27): warning C4018: '<=': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\DirectXModule.cpp(65,28): warning C4018: '<=': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\DirectXModule.cpp(71,28): warning C4018: '<=': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\DirectXModule.cpp(77,34): warning C4018: '<=': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\DirectXModule.cpp(83,30): warning C4018: '<=': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\DirectXModule.cpp(106,17): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\DirectXModule.cpp(288,17): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\DirectXModule.cpp(341,17): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\DirectXModule.cpp(387,17): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\DirectXModule.cpp(407,17): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\DirectXModule.cpp(438,17): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\DirectXModule.cpp(469,17): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\DirectXModule.cpp(489,17): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\DirectXModule.cpp(552,40): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\DirectXModule.cpp(553,41): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\DirectXModule.cpp(561,32): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\DirectXModule.cpp(562,33): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\DirectXModule.cpp(571,32): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\DirectXModule.cpp(572,33): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\DirectXModule.cpp(632,93): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\DirectXModule.cpp(632,79): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\DirectXModule.cpp(641,52): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\DirectXModule.cpp(641,45): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\DirectXModule.cpp(641,40): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\DirectXModule.cpp(641,34): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\DirectXModule.cpp(693,17): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  Enemy.cpp
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Enemy.cpp(102,21): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Enemy.cpp(212,33): warning C4804: '%': 演算中の 'bool' 型の使用方法が安全ではありません
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Enemy.cpp(214,113): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Enemy.cpp(214,74): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Enemy.cpp(216,123): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Enemy.cpp(216,84): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  EventObj.cpp
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\EventObj.cpp(50,67): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\EventObj.cpp(50,47): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\EventObj.cpp(67,68): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\EventObj.cpp(67,48): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  Game.cpp
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Game.cpp(35,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Game.cpp(37,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Game.cpp(39,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Game.cpp(41,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Game.cpp(43,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Game.cpp(45,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Game.cpp(62,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Game.cpp(63,21): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Game.cpp(75,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Game.cpp(81,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Game.cpp(140,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Game.cpp(183,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Game.cpp(249,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  general.cpp
+  Home.cpp
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Home.cpp(25,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Home.cpp(57,63): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Home.cpp(57,48): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Home.cpp(70,87): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Home.cpp(70,103): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  ImageManager.cpp
+  item.cpp
+  ItemList.cpp
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\ItemList.cpp(48,101): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\ItemList.cpp(53,58): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\ItemList.cpp(61,59): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\ItemList.cpp(64,20): warning C4018: '>=': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\ItemList.cpp(83,64): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\ItemList.cpp(84,66): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\ItemList.cpp(85,66): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\ItemList.cpp(91,41): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\ItemList.cpp(92,34): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  Map.cpp
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Map.cpp(41,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Map.cpp(61,65): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Map.cpp(84,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Map.cpp(86,112): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Map.cpp(86,86): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Map.cpp(89,112): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Map.cpp(89,86): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  Menu.cpp
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Menu.cpp(38,120): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Menu.cpp(80,64): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Menu.cpp(81,66): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Menu.cpp(82,66): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  Player.cpp
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(118,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(122,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(176,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(182,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(302,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(363,106): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(363,80): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(364,105): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(364,79): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(367,116): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(367,90): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(368,115): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(368,89): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(405,106): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(405,80): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(406,105): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(406,79): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(409,116): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(409,90): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(410,115): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(410,89): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(448,106): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(448,80): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(449,104): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(449,78): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(452,116): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(452,90): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(453,114): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(453,88): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(484,106): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(484,80): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(485,74): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(485,54): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(488,116): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(488,90): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(489,84): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(489,64): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(526,106): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(526,80): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(527,76): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(527,56): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(530,116): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(530,90): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(531,86): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(531,66): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(536,111): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(536,86): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(538,122): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(538,96): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(568,106): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(568,80): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(569,76): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(569,56): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(572,116): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(572,90): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(573,86): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(573,66): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(578,111): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(578,86): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(580,122): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(580,96): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(606,76): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(606,56): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(607,106): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(607,80): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(610,86): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(610,66): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(611,116): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(611,90): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(616,111): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(616,86): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(618,122): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Player.cpp(618,96): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  pub.cpp
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\pub.cpp(31,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\pub.cpp(64,63): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\pub.cpp(64,48): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\pub.cpp(75,64): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\pub.cpp(75,49): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\pub.cpp(79,87): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\pub.cpp(79,103): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  Quest.cpp
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Quest.cpp(54,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Quest.cpp(61,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Quest.cpp(68,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  QuestList.cpp
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\QuestList.cpp(37,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\QuestList.cpp(52,63): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\QuestList.cpp(70,64): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\QuestList.cpp(74,41): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\QuestList.cpp(75,81): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\QuestList.cpp(81,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\QuestList.cpp(87,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  SaveData.cpp
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\SaveData.cpp(26,120): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\SaveData.cpp(46,65): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\SaveData.cpp(47,66): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\SaveData.cpp(48,65): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\SaveData.cpp(49,66): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\SaveData.cpp(51,75): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\SaveData.cpp(51,62): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\SaveData.cpp(52,76): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\SaveData.cpp(52,62): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\SaveData.cpp(57,35): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\SaveData.cpp(60,35): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\SaveData.cpp(84,120): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\SaveData.cpp(104,65): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\SaveData.cpp(105,66): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\SaveData.cpp(106,65): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\SaveData.cpp(107,66): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\SaveData.cpp(109,75): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\SaveData.cpp(109,62): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\SaveData.cpp(110,76): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\SaveData.cpp(110,62): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\SaveData.cpp(115,35): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\SaveData.cpp(118,35): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  Skill.cpp
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Skill.cpp(47,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  SkillTree.cpp
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\SkillTree.cpp(46,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\SkillTree.cpp(59,118): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\SkillTree.cpp(116,119): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\SkillTree.cpp(116,79): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\SkillTree.cpp(117,129): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\SkillTree.cpp(117,88): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\SkillTree.cpp(119,23): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\SkillTree.cpp(123,194): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\SkillTree.cpp(123,135): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\SkillTree.cpp(123,94): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\SkillTree.cpp(123,53): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  Sound.cpp
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Sound.cpp(45,46): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  コードを生成中...
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\item.cpp(13): warning C4715: 'create_item': 値を返さないコントロール パスがあります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\EventObj.cpp(21): warning C4715: 'create_event': 値を返さないコントロール パスがあります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Enemy.cpp(17): warning C4715: 'create_enemy': 値を返さないコントロール パスがあります。
+  コンパイル中...
+  Stage.cpp
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Stage.cpp(117,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  Field.cpp
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Field.cpp(39,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Field.cpp(77,113): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Field.cpp(77,80): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Field.cpp(80,113): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Field.cpp(80,80): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Field.cpp(83,113): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Field.cpp(83,80): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Field.cpp(86,113): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Field.cpp(86,80): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Field.cpp(100,87): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Field.cpp(100,103): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  StageChanger.cpp
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\StageChanger.cpp(57,67): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\StageChanger.cpp(57,47): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\StageChanger.cpp(86,67): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\StageChanger.cpp(86,47): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\StageChanger.cpp(116,67): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\StageChanger.cpp(116,47): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  TalkWindow.cpp
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\TalkWindow.cpp(36,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\TalkWindow.cpp(46,24): warning C4018: '>=': signed と unsigned の数値を比較しようとしました。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\TalkWindow.cpp(56,61): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\TalkWindow.cpp(58,24): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  Title.cpp
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\Title.cpp(33,120): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+  WindowsModule.cpp
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\WindowsModule.cpp(43,30): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\WindowsModule.cpp(44,30): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\WindowsModule.cpp(83,33): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\WindowsModule.cpp(83,20): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\WindowsModule.cpp(86,16): warning C4101: 'ex': ローカル変数は 1 度も使われていません。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\WindowsModule.cpp(97,18): warning C4244: '初期化中': 'LONG' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\WindowsModule.cpp(98,19): warning C4244: '初期化中': 'LONG' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\WindowsModule.cpp(100,90): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Rare's_Knight_pub\WindowsModule.cpp(100,50): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  Main.cpp
+  コードを生成中...
+  Rare's_Knight_pub.vcxproj -> C:\Users\magne\Desktop\general_workspace\プロジェクトバックアップ\20170803\VSProjects\Rare's_Knight_pub\Debug\Rare's_Knight_pub.exe
